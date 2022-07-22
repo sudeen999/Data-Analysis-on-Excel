@@ -12,23 +12,18 @@ As a part of market research, your CEO wants to come up with a business strategy
 Your CEO would like to know what kind of games are most popular in terms of the most units sold, what are the most commonly used gaming platforms such as PS4, Xbox, PC etc.
 
 
-
 Things To Do
-The Year and Publisher columns contain few missing values. Treat them accordingly.
-
-Convert the values contained in the Year column into integer values.
+* The Year and Publisher columns contain few missing values. Treat them accordingly.
+* Convert the values contained in the Year column into integer values.
 
 Find out:
-
-The trend of growth in the number of total units sold across the given regions and the world. Also create year-wise line plots for the total number of units sold across different regions and the world.
-
-Top 10 most sold genres of video games but at least 100 million units sold globally. Also create genre-wise line plots for the total number of units sold across different regions and the world.
-
-Top 10 best publishers of video games but at least 100 million units sold globally.
-
-Top 10 most commonly used gaming platform but at least 100 million units sold globally.
+* The trend of growth in the number of total units sold across the given regions and the world. Also create year-wise line plots for the total number of units sold across different regions and the world.
+* Top 10 most sold genres of video games but at least 100 million units sold globally. Also create genre-wise line plots for the total number of units sold across different regions and the world.
+* Top 10 best publishers of video games but at least 100 million units sold globally.
+* Top 10 most commonly used gaming platform but at least 100 million units sold globally.
 
 ![image](https://user-images.githubusercontent.com/75338936/180514611-6b1812dd-e51e-43fa-a02d-aa41b4750cda.png)
 ![image](https://user-images.githubusercontent.com/75338936/180514669-3156a8e7-b630-4117-aa80-7a018bc06ac3.png)
+![image](https://user-images.githubusercontent.com/75338936/180515431-64b8c85d-1eaf-4010-85c6-a6a7ca6f5c6f.png)
 
 
