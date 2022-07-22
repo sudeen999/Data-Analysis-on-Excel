@@ -27,3 +27,8 @@ Top 10 most sold genres of video games but at least 100 million units sold globa
 Top 10 best publishers of video games but at least 100 million units sold globally.
 
 Top 10 most commonly used gaming platform but at least 100 million units sold globally.
+
+![image](https://user-images.githubusercontent.com/75338936/180514611-6b1812dd-e51e-43fa-a02d-aa41b4750cda.png)
+![image](https://user-images.githubusercontent.com/75338936/180514669-3156a8e7-b630-4117-aa80-7a018bc06ac3.png)
+
+
